@@ -12,3 +12,6 @@ index.html
 
 # Resultado
 
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/149636789-24e79c57-acf1-4a0b-9a50-fa00fa41f280.gif">
+</span>
