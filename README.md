@@ -7,6 +7,6 @@ Cronõmetro feito com as tecnologias: JavaScript, HTML e CSS. Com botões para i
 Abrir com Live Server ou o comamdo no terminal:
 
 ```bash
-      index.html
+index.html
 ```
 
