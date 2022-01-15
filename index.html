@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronômetro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <script>
+        window.alert('Seja Bem-Vindo ao Cronômetro JS')
+        let nome = window.prompt('Qual é o seu nome? ')
+
+        document.write(`<p>Olá ${nome.toUpperCase()}, aproveite o programa!<p>`)
+    </script>
+    
+    <div class="campos">
+        <h1>Cronômetro em JavaScript</h1>
+        <h2>Faça testes com o cronômetro:</h2>
+        <p><strong>Tempo</strong>:   <span id="segundos">00</span>:<span id="milisegundos">00</span></p>
+        <button id="começar">Iniciar</button>
+        <button id="parar">Parar</button>
+        <button id="recomeçar">Recomeçar</button>
+    </div>
+
+    <section>
+        <footer>
+            <p>&copy; JavaScript</p>
+        </footer>
+    </section>
+
+    <script src="funcionalidades.js"></script>
+    
+
+</body>
+</html>
